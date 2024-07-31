@@ -1,0 +1,82 @@
+[
+    {
+        "name": "iPhone 13",
+        "price": 999,
+        "description": "Latest Apple iPhone with A15 Bionic chip",
+        "company": "apple",
+        "rating": 4.9,
+        "feature": false
+    },
+    {
+        "name": "Galaxy S21",
+        "price": 799,
+        "description": "Flagship Samsung phone with Exynos 2100",
+        "company": "samsung",
+        "rating": 4.8,
+        "feature": true
+    },
+    {
+        "name": "MacBook Pro",
+        "price": 1299,
+        "description": "Apple's powerful laptop with M1 chip",
+        "company": "apple",
+        "rating": 4.9,
+        "feature": true
+    },
+    {
+        "name": "Mi 11",
+        "price": 699,
+        "description": "High-performance phone from Mi",
+        "company": "mi",
+        "rating": 4.7,
+        "feature": false
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": 999,
+        "description": "Compact and powerful laptop from Dell",
+        "company": "dell",
+        "rating": 4.6,
+        "feature": true
+    },
+    {
+        "name": "Apple Watch Series 7",
+        "price": 399,
+        "description": "Latest smartwatch from Apple",
+        "company": "apple",
+        "rating": 4.8,
+        "feature": false
+    },
+    {
+        "name": "Samsung Galaxy Tab S7",
+        "price": 649,
+        "description": "High-end tablet from Samsung",
+        "company": "samsung",
+        "rating": 4.7,
+        "feature": true
+    },
+    {
+        "name": "Dell Inspiron 15",
+        "price": 549,
+        "description": "Affordable laptop from Dell",
+        "company": "dell",
+        "rating": 4.5,
+        "feature": false
+    },
+    {
+        "name": "Mi Band 6",
+        "price": 50,
+        "description": "Fitness tracker from Mi",
+        "company": "mi",
+        "rating": 4.4,
+        "feature": false
+    },
+    {
+        "name": "Apple AirPods Pro",
+        "price": 249,
+        "description": "Noise-cancelling earbuds from Apple",
+        "company": "apple",
+        "rating": 4.9,
+        "feature": true
+    }
+]
